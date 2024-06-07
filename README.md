@@ -1,6 +1,6 @@
 # Hi, I'm Satesh 👋
 A principal data scientist with over 5 years of professional experience. I have a strong background in statistics, in particular it's applicability with neural network and applied problems.
-I've worked end-to-end as a data scientist & machine learning engineer with deployments for monolithic, or microservice architectures. I have a few opensource projects and I maintain an active 
+I've worked end-to-end functioning as both a data scientist & machine learning engineer for deployments with monolithic, or microservice based architectures. I have a few opensource projects and I maintain an active 
 interest in personal research in particular statistics and machine learning loss function optimizations.
 
 ### Key points
