@@ -1,13 +1,13 @@
 # Hi, I'm Satesh 👋
-A principal data scientist with over 5 years of professional experience. I have a strong background in statistics, in particular it's applicability with neural network and applied problems.
+A principal data scientist with over 5 years of professional experience. I have a strong background in statistics, in particular it's applicability with neural network loss functions and applied problems.
 I've worked end-to-end functioning as both a data scientist & machine learning engineer for deployments with monolithic, or microservice based architectures. I have a few opensource projects and I maintain an active 
-interest in personal research in particular statistics and machine learning loss function optimizations.
+interest in personal research.
 
 ### Key points
-*   Trained statistician with broad experience around low parameter theoretical models & high parameter machine/deep learning.
+*   Broad experience around low parameter theoretical models & high parameter machine/deep learning models.
 *   Experience with a variety of problems: Chatbot, Anomaly Detection, Genetic Networks, Classifier Trees, Human Resources & Company Statistical Benchmarking, Wireless RSSI Spatial Kriging, 
 Warehouse Logistics, Text Summarization, and Process Mining in Python. 
-*   I write research papers with the expectation for peer review. 
+*   Write research papers with the expectation for peer review. 
 
 ## 🛠 Technology Stack
 *   Python/R/Java languages
