@@ -26,7 +26,6 @@ Warehouse Logistics, Text Summarization, and Process Mining in Python.
 *   [Ramdhani, Satesh, et al.](https://www.tandfonline.com/doi/full/10.1080/03610918.2017.1353616) - Underground storage tanks (UST): A closer investigation statistical implications to changing the shape of a UST. 
 *   [Ramdhani, Satesh, et al.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008549) - Tensor decomposition of stimulated monocyte and macrophage gene expression profiles identifies neurodegenerative disease-specific trans-eQTLs.
 *   [Ramdhani, Satesh.](https://arxiv.org/abs/2210.16458) Reformulating van Rijsbergen’s Fβ metric for weighted binary cross-entropy. (Under Review)
-*   [OpenPose PlaidML] (PENDING) OpenPose with Keras on PlaidML using an at home AMD eGPU and Sonnet Breakaway Box. 
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/satesh-ramdhani-725b3424/">
