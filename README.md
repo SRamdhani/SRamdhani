@@ -17,6 +17,7 @@ Warehouse Logistics, Text Summarization, and Process Mining in Python.
 *   GitHub/GitLab
 
 ### My opensource projects
+*   [AMD PlaidML Benchmark](https://github.com/SRamdhani/amd_plaidml_benchmark) - Pure keras model code to run benchmark testing on your AMD GPU with plaidml.
 *   [Transformer GPT](https://github.com/SRamdhani/transformer) - Transformer from Scratch and GPT Training with HuggingFace dataset.
 *   [Stocks](https://github.com/SRamdhani/Stocks) - Stock Trading Streamlit Application
 *   [Graph Emeddings](https://github.com/SRamdhani/Graph-Embeddings) - Leveraging a basic graph structure to develop skip grams to model embeddings for nodes.
